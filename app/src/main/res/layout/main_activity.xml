@@ -30,6 +30,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:inputType="textPersonName"
+        android:hint="@string/txt_main_name"
         android:layout_marginBottom="@dimen/main_bottom_margin" />
 
     <TextView
@@ -43,6 +44,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:inputType="textPersonName"
+        android:hint="@string/txt_main_apellidos"
         android:layout_marginBottom="@dimen/main_bottom_margin" />
 
     <TextView
